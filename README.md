@@ -1,6 +1,6 @@
 # Project2-ETL-With-Carbon-Pollution-Data
 
-The purpose of thi project was to get acquainted with the database functions known as extract, transform, and load or ETL.
+The purpose of this project was to get acquainted with the database functions known as extract, transform, and load or ETL.
 
 In the extract stage, we collected the data from kaggle.
 
